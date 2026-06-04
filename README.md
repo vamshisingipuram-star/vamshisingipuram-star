@@ -63,9 +63,15 @@ Data Science & AI Enthusiast | Machine Learning Learner | Problem Solver
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vamshisingipuram-star&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshisingipuram-star&layout=compact&theme=radical)
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vamshisingipuram-star&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshisingipuram-star&layout=compact&theme=tokyonight" />
+</p>
 
