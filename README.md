@@ -62,7 +62,9 @@ Data Science & AI Enthusiast | Machine Learning Learner | Problem Solver
 
 
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vamshisingipuram-star&theme=radical)
+![Vamshi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vamshisingipuram-star&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vamshisingipuram-star&layout=compact&theme=radical)
 
